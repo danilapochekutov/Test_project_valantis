@@ -1,0 +1,10 @@
+.product-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: calc(33.33% - 20px);
+  
+    p {
+      margin: 5px 0;
+    }
+  }
