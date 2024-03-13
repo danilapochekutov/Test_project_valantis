@@ -1,6 +1,6 @@
 import {useHttp} from "../Hooks/http.hook";
 
-const API_BASE_URL = "http://api.valantis.store:40000/";
+const API_BASE_URL = "https://api.valantis.store:41000/";
 
 const ApiFunctions = () => {
 	const {request} = useHttp();
